@@ -1,0 +1,18 @@
+[dbconn]
+host = localhost
+port = 5432
+uname = postgres
+upassword = alpha1
+dbname = SoundWave
+
+[preinit]
+point  = 0,0
+zoom = 16
+
+[divproperties]
+width = 800
+height = 600
+
+[frameproperties]
+width = 0
+height = 0
